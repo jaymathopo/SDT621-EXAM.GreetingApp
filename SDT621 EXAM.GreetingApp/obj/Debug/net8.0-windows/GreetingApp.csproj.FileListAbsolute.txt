@@ -1,0 +1,14 @@
+C:\Users\johannesm\Desktop\PM-04_SA-SDT621 EXAM\GreetingApp\bin\Debug\net8.0-windows\GreetingApp.exe
+C:\Users\johannesm\Desktop\PM-04_SA-SDT621 EXAM\GreetingApp\bin\Debug\net8.0-windows\GreetingApp.deps.json
+C:\Users\johannesm\Desktop\PM-04_SA-SDT621 EXAM\GreetingApp\bin\Debug\net8.0-windows\GreetingApp.runtimeconfig.json
+C:\Users\johannesm\Desktop\PM-04_SA-SDT621 EXAM\GreetingApp\bin\Debug\net8.0-windows\GreetingApp.dll
+C:\Users\johannesm\Desktop\PM-04_SA-SDT621 EXAM\GreetingApp\bin\Debug\net8.0-windows\GreetingApp.pdb
+C:\Users\johannesm\Desktop\PM-04_SA-SDT621 EXAM\GreetingApp\obj\Debug\net8.0-windows\GreetingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johannesm\Desktop\PM-04_SA-SDT621 EXAM\GreetingApp\obj\Debug\net8.0-windows\GreetingApp.AssemblyInfoInputs.cache
+C:\Users\johannesm\Desktop\PM-04_SA-SDT621 EXAM\GreetingApp\obj\Debug\net8.0-windows\GreetingApp.AssemblyInfo.cs
+C:\Users\johannesm\Desktop\PM-04_SA-SDT621 EXAM\GreetingApp\obj\Debug\net8.0-windows\GreetingApp.csproj.CoreCompileInputs.cache
+C:\Users\johannesm\Desktop\PM-04_SA-SDT621 EXAM\GreetingApp\obj\Debug\net8.0-windows\GreetingApp.dll
+C:\Users\johannesm\Desktop\PM-04_SA-SDT621 EXAM\GreetingApp\obj\Debug\net8.0-windows\refint\GreetingApp.dll
+C:\Users\johannesm\Desktop\PM-04_SA-SDT621 EXAM\GreetingApp\obj\Debug\net8.0-windows\GreetingApp.pdb
+C:\Users\johannesm\Desktop\PM-04_SA-SDT621 EXAM\GreetingApp\obj\Debug\net8.0-windows\GreetingApp.genruntimeconfig.cache
+C:\Users\johannesm\Desktop\PM-04_SA-SDT621 EXAM\GreetingApp\obj\Debug\net8.0-windows\ref\GreetingApp.dll
